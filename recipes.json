@@ -1,7 +1,7 @@
 {
     "recipes":[
-        {},
-        {},
-        {}
-
+        {"Title":"Spaghetti Bolognese", "Ingredients":["Tomatoes","Carrots","Minced Beef","Celery","Spaghetti"], 
+        "Method":"Throw it in a pot. /nWait for the Mince to brown. /nBoil Spaghetti, Enjoy :>"},
+        {"Title":"Toast", "Ingredients":["Bread"], 
+        "Method":"Put it in the toaster. Job done lol"}
 ]}
